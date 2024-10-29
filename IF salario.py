@@ -21,3 +21,5 @@ print("valor do salario ja descontado:", valor_de_desconto)
 print("aliquota do IR:", porcetagem)
 print("salario bruto:", salario_bruto)
 print("valor ja descontado:", descontado)
+
+https://messias.io/2024/10/29/introducao-a-analise-de-dados-com-python-conceitos-ferramentas-e-exemplo-pratico/
